@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sounds</string>
+
+    <string name="angry_timlid">Angry teamlead</string>
+    <string name="bada_bum_tsss">Bada bum tsss</string>
+    <string name="bzdyn">Bzdyn</string>
+    <string name="dich">Dich, bitch</string>
+    <string name="fail">Fail</string>
+    <string name="smeh">Laugh</string>
+    <string name="smeh_iz_serialov">Laugh(TV-show)</string>
+    <string name="svist">Whistling</string>
+    <string name="vot_eto_povorot">What a twist!</string>
+    <string name="syerbanye">Syerbanye</string>
+    <string name="oars">Oars</string>
+    <string name="lash">Lash</string>
+    <string name="x_files_song">X files</string>
+
+    <string name="add_sound_hint">*Press on the sound you want to set on the button</string>
+
+    <string name="add_sound_dialog_source_title">Choose a source</string>
+
+    <string name="permission_explanation">Permissions needed for audio recording</string>
+
+
+</resources>

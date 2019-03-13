@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--todo: correct colors-->
+    <color name="colorPrimary">#3CABE3</color>
+    <color name="colorPrimaryDark">#0B7EB7</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimaryHalOpacity">#553CABE3</color>
+
+    <color name="colorPrimaryDarkHalOpacity">#550B7EB7</color>
+    <color name="colorPrimaryDarkButtonDisable">#055D89</color>
+</resources>
