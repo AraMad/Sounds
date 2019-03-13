@@ -1,7 +1,7 @@
 # Sounds
 Self-education app. Training single activity architecture project
 
-##Key points
+## Key points
 - Single activity app with fragment flows
 - Kotlin
 - MVVM
